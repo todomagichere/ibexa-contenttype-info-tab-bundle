@@ -16,4 +16,8 @@ Dont worry dude, you just can install it with composer:
 
     composer require todomagichere/ibexa-contenttype-info-tab
 
+And dont forget clear the cache:
+
+    php bin/console cache:clear
+
 Now enjoy that minute looking at the mountains through the window of your office :)
